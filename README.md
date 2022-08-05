@@ -33,7 +33,7 @@ Enter that directory
 
 Clone the github repo
 
-> git clone git@github.com:justtesting1151/Aluminum-ECS-Terraform.git
+> git clone git@github.com:SebastianCanonaco/AluminumVPCTerraform.git
 
 Initialize the terraform repository
 
